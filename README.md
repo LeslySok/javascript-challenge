@@ -8,7 +8,6 @@ There is just one tiny problem though... our collection is too large to search t
 That's why I was hired. I wrote a code that creates a table dynamically based upon a dataset provided. Our users can filter the table data for specific values. There's a catch though... I only used pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 The planet Earth needs to know what we have found!
 
-I Created a new repository for this project called javascript-challenge. 
 
 Please open the "index.html file and in the filter search, please enter a date. Once the date has been entered (date format: 1/1/2020), click on the "Sightings Filter". 
 
